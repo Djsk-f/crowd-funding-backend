@@ -1,0 +1,11 @@
+{
+    "env": "development",
+    "port": 3000,
+    "host": "localhost",
+    "db": {
+        "host": "127.0.0.1:27017",
+        "name": "crowdfunding"
+    },
+    "baseUrl": "http://localhost:3000/",
+    "basePath": "api/v1"
+}
